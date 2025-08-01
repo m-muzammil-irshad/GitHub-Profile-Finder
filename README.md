@@ -1,21 +1,36 @@
-# 🔍 GitHub Profile Finder
+# 🛍️ Product Search Filter
+
 <br>
-A simple and responsive web app that lets you search any GitHub username and view their public profile details using the GitHub API.
+
+A clean and responsive web app that allows users to search and filter products using a public API. Ideal for practicing API handling, search functionality, and dynamic DOM manipulation.
+
 <br>
+
 ## 🚀 Features
-- View avatar, bio, repositories, followers, and following
-- Error handling for invalid usernames
-- Loading animation for better UX
-- Responsive design (mobile/tablet friendly)
+
+- Search products by name  
+- View product image, title, description, and price  
+- Real-time filtering as you type  
+- Responsive layout for all screen sizes  
+- Clean and modern UI
+
 <br>
-## 🛠️ Built With
-- HTML
-- CSS
-- JavaScript
-- GitHub REST API
+
+## 🧰 Built With
+
+- HTML  
+- CSS  
+- JavaScript  
+- Public Product API (e.g. DummyJSON or FakeStore API)
+
 <br>
+
 ## 📷 Screenshot
+
 ![App Screenshot](screenshot.png)
+
 <br>
+
 ## 📄 License
+
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
