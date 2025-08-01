@@ -1,2 +1,22 @@
-# GitHub-Profile-Finder
-A simple web app to search any GitHub username and view public profile info using the GitHub API. Shows avatar, bio, repos, followers, and following. Built with HTML, CSS, and JavaScript. Includes error handling, loading animation, and responsive design for all devices.
+# 🔍 GitHub Profile Finder
+<br>
+A simple and responsive web app that lets you search any GitHub username and view their public profile details using the GitHub API.
+<br>
+## 🚀 Features
+- View avatar, bio, repositories, followers, and following
+- Error handling for invalid usernames
+- Loading animation for better UX
+- Responsive design (mobile/tablet friendly)
+<br>
+## 🛠️ Built With
+- HTML
+- CSS
+- JavaScript
+- GitHub REST API
+<br>
+## 📷 Screenshot
+![App Screenshot](screenshot.png)
+<br>
+## 📄 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
