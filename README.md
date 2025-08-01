@@ -19,4 +19,3 @@ A simple and responsive web app that lets you search any GitHub username and vie
 <br>
 ## 📄 License
 This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
